@@ -17,11 +17,11 @@ class Tweet
   end
 
   def like_tweets
-    @client.favorite(get_tweets)
+    @client.favorite(fetch_tweets)
   end
 
   def retweets
-    get_tweets.each do |t|
+    fetch_tweets.each do |t|
       @client.retweet(t.id)
     end
   end
