@@ -3,5 +3,10 @@ require_relative '../lib/tweet_controller.rb'
 require 'dotenv'
 Dotenv.load
 
-like_retweet = Tweet.new
-like_retweet.create_retweet
+def run
+  like_retweet = Tweet.new
+  like_retweet.like_tweets
+  like_retweet.retweets
+end
+
+run
