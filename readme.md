@@ -1,4 +1,4 @@
-> JavaScript Twitter Bot
+## JavaScript Twitter Bot
 
 ![screenshot](https://user-images.githubusercontent.com/48393059/78469196-94acbd80-7727-11ea-9648-8bb1ecebf7ec.png)
 
