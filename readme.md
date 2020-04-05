@@ -40,5 +40,6 @@
 
 ## Acknowledgments
 
-- Hat's off to [Microverse](https://www.microverse.org) and [The Odin Project](https://theodinproject.com) for the study materials
+- [Microverse](https://www.microverse.org) 
+- [The Odin Project](https://theodinproject.com)
 
