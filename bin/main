@@ -5,6 +5,7 @@ Dotenv.load
 
 def run
   like_retweet = Tweet.new
+  like_retweet.fetch_tweets
   like_retweet.like_tweets
   like_retweet.retweets
 end
